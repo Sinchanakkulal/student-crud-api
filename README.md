@@ -352,6 +352,6 @@ This project provides practical experience with:
 
 **Sinchana Kulal**
 
-GitHub: [Add your GitHub profile URL]
+GitHub: https://github.com/Sinchanakkulal/student-crud-api.git
 
-LinkedIn: [Add your LinkedIn profile URL]
+LinkedIn: https://www.linkedin.com/in/sinchana-kulal
